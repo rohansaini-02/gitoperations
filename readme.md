@@ -1,5 +1,9 @@
 line1
+team1
 team1 branch
+=======
+main branch 
+main
 #git-operations
 
 git config --list=>list configuration
